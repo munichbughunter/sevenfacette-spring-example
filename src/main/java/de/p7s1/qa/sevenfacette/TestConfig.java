@@ -1,6 +1,5 @@
 package de.p7s1.qa.sevenfacette;
 
-
 import de.p7s1.qa.sevenfacette.config.types.HttpClientConfig;
 import de.p7s1.qa.sevenfacette.config.types.WebConfig;
 import org.springframework.beans.factory.annotation.Autowired;
